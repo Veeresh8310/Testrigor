@@ -1,0 +1,6 @@
+open url "https://naveenautomationlabs.com/opencart/index.php?route=common/home"
+click "My Account"
+click "Login"
+enter "veeresh@gmail.com" into "E-Mail Address"
+enter "Akki@12345" into "Password"
+click "Login"
