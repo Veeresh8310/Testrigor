@@ -1,0 +1,23 @@
+Open url "https://naveenautomationlabs.com/opencart/index.php?route=common/home"
+Click "My Account" 
+Click "Login" 
+Enter "veeresh@gmail.com" into "E-Mail Address"
+Enter "Akki@12345" into "Password" 
+Click "Login".
+click on "Components"
+click on "Monitors"
+scroll down until "ADD TO CART" is visible
+click on "ADD TO CART" for Item "Apple Cinema 30" 
+scroll down until "Add to Cart" is visible
+click on "Checkbox 3 (+$36.00)"
+click on "Checkbox 4 (+$48.00)"
+
+select third option from "Select"
+enter "TEXT" into "Textarea"
+click " Upload File"
+upload file "https://media.gettyimages.com/id/1255803683/photo/royal-challengers-bangalores-virat-kohli-practices-before-the-start-of-the-indian-premier.jpg?s=612x612&w=gi&k=20&c=nNu2IvB7e09grFRTTDTOtMAWttaKfuUpT7WMKvvuV_0="
+enter "2011-02-27" into "Date"
+enter "22:40" into "Time"
+enter "2011-02-27 22:24" into "Date & Time"
+enter "3" into "Qty"
+click "Add to Cart"
