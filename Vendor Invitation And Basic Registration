@@ -1,0 +1,31 @@
+enter "saroj" into "Username"
+enter "Bob@1234" into "Password"
+click "Sign In"
+check that page contains "Vendor Invitation"
+click "Vendor Invitation"
+enter "Sad" into "Vendor Legal Name"
+select "Karnataka" from "state"
+click "verify"
+if page contains "No Data Found" then
+click "Create New Vendor"
+wait 10 sec
+else if page contains "Add New Site" or "Vendor Extension" or "Profile Update & Active "then
+click "Add New Site"
+wait 10 sec
+end
+select "Trust" from "Nature of Entity"
+enter "ASDFG7887A" into "PAN No"
+select "Agent" from "Type of Vendor"
+enter "Bengaluru" into "Location / Site Name"
+enter "Bengaluru" into "Address"
+enter "Bengaluru" into "City"
+enter "590098" into "PIN/ZIP"
+enter "veereshakki123@gmail.com" into "Vendor e-mail"
+click "OK" on alert
+// accept alert
+enter "Sad" into "Vendor Contact Name"
+enter "Manager" into "Designation"
+enter "9090909090" into "Contact Number"
+enter "veereshakki123@gmail.com" into "Email Id"
+enter "sad" into "Username"
+click "Submit"
